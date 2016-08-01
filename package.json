@@ -1,0 +1,31 @@
+{
+  "name": "test_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "babel-core": "^6.11.4",
+    "babel-eslint": "^5.0.0",
+    "babel-helper-call-delegate": "^6.3.13",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-add-module-exports": "^0.1.1",
+    "babel-plugin-transform-runtime": "^6.3.13",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-0": "^6.3.13",
+    "babel-register": "^6.3.13",
+    "babel-runtime": "^6.11.6",
+    "express": ">= 1.2.0",
+    "express-enrouten": "^1.3.0",
+    "pug": "==2.0.0-beta3",
+    "q": "^1.4.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-transform-runtime": "^6.12.0"
+  }
+}
